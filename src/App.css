@@ -1,4 +1,6 @@
 body{
   background: url(assets/forest-7922999_1280.jpg);
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
